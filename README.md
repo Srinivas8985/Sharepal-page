@@ -1,11 +1,30 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## How to Run the Project
 
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (v18 or higher)
+- npm
+
+### Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Srinivas8985/Sharepal-page
+cd Sharepal-page
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Run
+
+npm install
+npm run dev
 
 ## React Compiler
 
